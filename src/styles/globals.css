@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image3 {
+  background-image: url(https://s3-alpha-sig.figma.com/img/8c0d/7b3f/221639601e00cbe07705f752b21fc588?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ejx5kPuXc8rE-YxFiza7JIhhRUDc7abn5WcQgPZ2SEKWO5r-HISrzf5POOq2vfeFP~G9Jn4sRz0XkdX6D-At7Zcxv26EQGwE6P37Oq3-ZcxYXJykYlA5eaAxP4FFZhyhXsW8Q29TQfxI53jETdeZLWxHBB9xQMq-IywhFFuz61Ugo4OoVrn5fHPCOuG75tL4IC65ICWdJw9MpfaCan9OfdUMnUPylujZdGHbaTv0QbAWx0cpOZsVP6yEZg01a5rAalUPCfc1B8eOUEaV-erImkcEvxfVGe61tMSFN7mIoHbF5G6dRGOL2JdvLuh9PuGibrrfBQgWvGGyYBUhjsBXcA__);
+  background-size: cover;
+}
